@@ -8,7 +8,7 @@
         if (window.location.pathname === '/auth/callback' || window.location.pathname === '/EVE_BP_Calc/auth/callback') {
             // 将查询参数转移到hash路由
             const search = window.location.search
-            const hash = '/EVE_BP_Calc/#/auth/callback'
+            const hash = 'EVE_BP_Calc/#/auth/callback'
             window.location.href = '/' + hash + search
         } else {
             // 其他404页面重定向到主页
