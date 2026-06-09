@@ -928,8 +928,8 @@
       "solarSystemID": 30000133,
       "solarSystemName_en": "Hirtamon",
       "solarSystemName_zh": "希尔塔蒙",
-      "security_status": 0.974726,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30000134": {
       "solarSystemID": 30000134,
@@ -963,15 +963,15 @@
       "solarSystemID": 30000138,
       "solarSystemName_en": "Ikuchi",
       "solarSystemName_zh": "伊库奇",
-      "security_status": 0.986815,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30000139": {
       "solarSystemID": 30000139,
       "solarSystemName_en": "Urlen",
       "solarSystemName_zh": "乌尔仑",
-      "security_status": 0.959995,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30000140": {
       "solarSystemID": 30000140,
@@ -984,8 +984,8 @@
       "solarSystemID": 30000141,
       "solarSystemName_en": "Kisogo",
       "solarSystemName_zh": "基索加",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30000142": {
       "solarSystemID": 30000142,
@@ -998,22 +998,22 @@
       "solarSystemID": 30000143,
       "solarSystemName_en": "Niyabainen",
       "solarSystemName_zh": "尼亚拜伦",
-      "security_status": 0.963924,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30000144": {
       "solarSystemID": 30000144,
       "solarSystemName_en": "Perimeter",
       "solarSystemName_zh": "皮尔米特",
-      "security_status": 0.953123,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30000145": {
       "solarSystemID": 30000145,
       "solarSystemName_en": "New Caldari",
       "solarSystemName_zh": "新加达里",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30000146": {
       "solarSystemID": 30000146,
@@ -9741,8 +9741,8 @@
       "solarSystemID": 30001392,
       "solarSystemName_en": "Amsen",
       "solarSystemName_zh": "安森",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30001393": {
       "solarSystemID": 30001393,
@@ -9832,8 +9832,8 @@
       "solarSystemID": 30001405,
       "solarSystemName_en": "Kakakela",
       "solarSystemName_zh": "卡卡克拉",
-      "security_status": 0.972291,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30001406": {
       "solarSystemID": 30001406,
@@ -9846,8 +9846,8 @@
       "solarSystemID": 30001407,
       "solarSystemName_en": "Todaki",
       "solarSystemName_zh": "图塔吉",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30001408": {
       "solarSystemID": 30001408,
@@ -11701,8 +11701,8 @@
       "solarSystemID": 30001672,
       "solarSystemName_en": "Emrayur",
       "solarSystemName_zh": "厄姆拉亚",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30001673": {
       "solarSystemID": 30001673,
@@ -15306,8 +15306,8 @@
       "solarSystemID": 30002187,
       "solarSystemName_en": "Amarr",
       "solarSystemName_zh": "艾玛",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002188": {
       "solarSystemID": 30002188,
@@ -15320,8 +15320,8 @@
       "solarSystemID": 30002189,
       "solarSystemName_en": "Hedion",
       "solarSystemName_zh": "赫迪农",
-      "security_status": 0.963853,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002190": {
       "solarSystemID": 30002190,
@@ -15971,8 +15971,8 @@
       "solarSystemID": 30002282,
       "solarSystemName_en": "Bhizheba",
       "solarSystemName_zh": "必泽巴",
-      "security_status": 0.963646,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002283": {
       "solarSystemID": 30002283,
@@ -17532,8 +17532,8 @@
       "solarSystemID": 30002505,
       "solarSystemName_en": "Hulm",
       "solarSystemName_zh": "休姆",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002506": {
       "solarSystemID": 30002506,
@@ -17574,8 +17574,8 @@
       "solarSystemID": 30002511,
       "solarSystemName_en": "Ameinaka",
       "solarSystemName_zh": "埃美纳卡",
-      "security_status": 0.987423,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002512": {
       "solarSystemID": 30002512,
@@ -17623,8 +17623,8 @@
       "solarSystemID": 30002518,
       "solarSystemName_en": "Edmalbrurdus",
       "solarSystemName_zh": "伊德马博多斯",
-      "security_status": 0.98923,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002519": {
       "solarSystemID": 30002519,
@@ -17665,8 +17665,8 @@
       "solarSystemID": 30002524,
       "solarSystemName_en": "Ivar",
       "solarSystemName_zh": "伊瓦尔",
-      "security_status": 0.956211,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002525": {
       "solarSystemID": 30002525,
@@ -17805,8 +17805,8 @@
       "solarSystemID": 30002544,
       "solarSystemName_en": "Pator",
       "solarSystemName_zh": "帕多尔",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002545": {
       "solarSystemID": 30002545,
@@ -17826,8 +17826,8 @@
       "solarSystemID": 30002547,
       "solarSystemName_en": "Ammold",
       "solarSystemName_zh": "埃莫奥德",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002548": {
       "solarSystemID": 30002548,
@@ -17973,8 +17973,8 @@
       "solarSystemID": 30002568,
       "solarSystemName_en": "Onga",
       "solarSystemName_zh": "昂加",
-      "security_status": 0.953514,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002569": {
       "solarSystemID": 30002569,
@@ -18008,8 +18008,8 @@
       "solarSystemID": 30002573,
       "solarSystemName_en": "Vullat",
       "solarSystemName_zh": "瓦拉特",
-      "security_status": 0.971363,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002574": {
       "solarSystemID": 30002574,
@@ -19002,8 +19002,8 @@
       "solarSystemID": 30002715,
       "solarSystemName_en": "Bourynes",
       "solarSystemName_zh": "博因列斯",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002716": {
       "solarSystemID": 30002716,
@@ -19331,8 +19331,8 @@
       "solarSystemID": 30002762,
       "solarSystemName_en": "Yashunen",
       "solarSystemName_zh": "亚述勒恩",
-      "security_status": 0.95123,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30002763": {
       "solarSystemID": 30002763,
@@ -21179,8 +21179,8 @@
       "solarSystemID": 30003026,
       "solarSystemName_en": "Blameston",
       "solarSystemName_zh": "布拉梅斯顿",
-      "security_status": 0.95161,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003027": {
       "solarSystemID": 30003027,
@@ -21214,15 +21214,15 @@
       "solarSystemID": 30003031,
       "solarSystemName_en": "Athinard",
       "solarSystemName_zh": "埃提纳的",
-      "security_status": 0.974909,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003032": {
       "solarSystemID": 30003032,
       "solarSystemName_en": "Meves",
       "solarSystemName_zh": "梅温斯",
-      "security_status": 0.979147,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003033": {
       "solarSystemID": 30003033,
@@ -21235,8 +21235,8 @@
       "solarSystemID": 30003034,
       "solarSystemName_en": "Mattere",
       "solarSystemName_zh": "玛提瑞",
-      "security_status": 0.951123,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003035": {
       "solarSystemID": 30003035,
@@ -23615,8 +23615,8 @@
       "solarSystemID": 30003374,
       "solarSystemName_en": "Arlulf",
       "solarSystemName_zh": "阿尔卢浮",
-      "security_status": 0.956387,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003375": {
       "solarSystemID": 30003375,
@@ -23657,8 +23657,8 @@
       "solarSystemID": 30003380,
       "solarSystemName_en": "Alf",
       "solarSystemName_zh": "阿尔夫",
-      "security_status": 0.953673,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003381": {
       "solarSystemID": 30003381,
@@ -23678,8 +23678,8 @@
       "solarSystemID": 30003383,
       "solarSystemName_en": "Todrir",
       "solarSystemName_zh": "托德里尔",
-      "security_status": 0.972757,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003384": {
       "solarSystemID": 30003384,
@@ -23860,22 +23860,22 @@
       "solarSystemID": 30003409,
       "solarSystemName_en": "Leurtmar",
       "solarSystemName_zh": "略特玛",
-      "security_status": 0.957898,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003410": {
       "solarSystemID": 30003410,
       "solarSystemName_en": "Ryddinjorn",
       "solarSystemName_zh": "莱丁乔尔",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003411": {
       "solarSystemID": 30003411,
       "solarSystemName_en": "Arlek",
       "solarSystemName_zh": "阿尔勒克",
-      "security_status": 0.959573,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003412": {
       "solarSystemID": 30003412,
@@ -24420,8 +24420,8 @@
       "solarSystemID": 30003489,
       "solarSystemName_en": "Chaven",
       "solarSystemName_zh": "查文",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003490": {
       "solarSystemID": 30003490,
@@ -24651,8 +24651,8 @@
       "solarSystemID": 30003522,
       "solarSystemName_en": "Sarum Prime",
       "solarSystemName_zh": "萨拉姆首星",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003523": {
       "solarSystemID": 30003523,
@@ -24665,8 +24665,8 @@
       "solarSystemID": 30003524,
       "solarSystemName_en": "Irnal",
       "solarSystemName_zh": "伊那尔",
-      "security_status": 0.950759,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30003525": {
       "solarSystemID": 30003525,
@@ -34766,8 +34766,8 @@
       "solarSystemID": 30004967,
       "solarSystemName_en": "Luminaire",
       "solarSystemName_zh": "泛光之源",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30004968": {
       "solarSystemID": 30004968,
@@ -34794,8 +34794,8 @@
       "solarSystemID": 30004971,
       "solarSystemName_en": "Duripant",
       "solarSystemName_zh": "杜利潘特",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30004972": {
       "solarSystemID": 30004972,
@@ -35291,8 +35291,8 @@
       "solarSystemID": 30005042,
       "solarSystemName_en": "Sehmy",
       "solarSystemName_zh": "瑟米",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30005043": {
       "solarSystemID": 30005043,
@@ -36425,8 +36425,8 @@
       "solarSystemID": 30005204,
       "solarSystemName_en": "Yulai",
       "solarSystemName_zh": "尤拉",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30005205": {
       "solarSystemID": 30005205,
@@ -37132,8 +37132,8 @@
       "solarSystemID": 30005305,
       "solarSystemName_en": "Cistuvaert",
       "solarSystemName_zh": "茨图瓦尔特",
-      "security_status": 1.0,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30005306": {
       "solarSystemID": 30005306,
@@ -37363,15 +37363,15 @@
       "solarSystemID": 30011672,
       "solarSystemName_en": "Kerepa",
       "solarSystemName_zh": "克勒伯",
-      "security_status": 0.969679,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30012505": {
       "solarSystemID": 30012505,
       "solarSystemName_en": "Malukker",
       "solarSystemName_zh": "马鲁克克",
-      "security_status": 0.988012,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30012547": {
       "solarSystemID": 30012547,
@@ -37391,8 +37391,8 @@
       "solarSystemID": 30013410,
       "solarSystemName_en": "Abrat",
       "solarSystemName_zh": "阿巴拉特",
-      "security_status": 0.978552,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30013489": {
       "solarSystemID": 30013489,
@@ -37440,8 +37440,8 @@
       "solarSystemID": 30021407,
       "solarSystemName_en": "Aokannitoh",
       "solarSystemName_zh": "奥坎尼托",
-      "security_status": 0.970923,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30021672": {
       "solarSystemID": 30021672,
@@ -37454,8 +37454,8 @@
       "solarSystemID": 30022505,
       "solarSystemName_en": "Orgron",
       "solarSystemName_zh": "奥尔古伦",
-      "security_status": 0.961612,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30022547": {
       "solarSystemID": 30022547,
@@ -37475,8 +37475,8 @@
       "solarSystemID": 30023410,
       "solarSystemName_en": "Embod",
       "solarSystemName_zh": "恩伯德",
-      "security_status": 0.960749,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30023489": {
       "solarSystemID": 30023489,
@@ -37531,15 +37531,15 @@
       "solarSystemID": 30031672,
       "solarSystemName_en": "Safilbab",
       "solarSystemName_zh": "莎费尔堡",
-      "security_status": 0.957633,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30032505": {
       "solarSystemID": 30032505,
       "solarSystemName_en": "Todeko",
       "solarSystemName_zh": "托德克",
-      "security_status": 0.992118,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30032547": {
       "solarSystemID": 30032547,
@@ -37622,15 +37622,15 @@
       "solarSystemID": 30042505,
       "solarSystemName_en": "Usteli",
       "solarSystemName_zh": "尤斯特里",
-      "security_status": 0.950595,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30042547": {
       "solarSystemID": 30042547,
       "solarSystemName_en": "Loguttur",
       "solarSystemName_zh": "洛古图尔",
-      "security_status": 0.957331,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30042715": {
       "solarSystemID": 30042715,
@@ -37643,8 +37643,8 @@
       "solarSystemID": 30043410,
       "solarSystemName_en": "Fildar",
       "solarSystemName_zh": "费尔达尔",
-      "security_status": 0.952626,
-      "display_security": 1.0
+      "security_status": 0.949,
+      "display_security": 0.9
     },
     "30043489": {
       "solarSystemID": 30043489,
@@ -38023,6 +38023,377 @@
       "solarSystemName_zh": "扎尔扎克",
       "security_status": -1.0,
       "display_security": -1.0
+    },
+    "30100032": {
+      "solarSystemID": 30100032,
+      "solarSystemName_en": "Manifest",
+      "solarSystemName_zh": "曼尼菲斯特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100033": {
+      "solarSystemID": 30100033,
+      "solarSystemName_en": "Gallant",
+      "solarSystemName_zh": "加兰特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100034": {
+      "solarSystemID": 30100034,
+      "solarSystemName_en": "Fortitude",
+      "solarSystemName_zh": "福蒂图德",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100035": {
+      "solarSystemID": 30100035,
+      "solarSystemName_en": "Forte",
+      "solarSystemName_zh": "福特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100036": {
+      "solarSystemID": 30100036,
+      "solarSystemName_en": "Triumph",
+      "solarSystemName_zh": "特赖安夫",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100037": {
+      "solarSystemID": 30100037,
+      "solarSystemName_en": "Decorum",
+      "solarSystemName_zh": "德科鲁姆",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100038": {
+      "solarSystemID": 30100038,
+      "solarSystemName_en": "Lustre",
+      "solarSystemName_zh": "拉斯特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100039": {
+      "solarSystemID": 30100039,
+      "solarSystemName_en": "Celerity",
+      "solarSystemName_zh": "塞莱里蒂",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100040": {
+      "solarSystemID": 30100040,
+      "solarSystemName_en": "Ratiocinate",
+      "solarSystemName_zh": "拉提奥辛内特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100041": {
+      "solarSystemID": 30100041,
+      "solarSystemName_en": "Rigor",
+      "solarSystemName_zh": "里戈",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100042": {
+      "solarSystemID": 30100042,
+      "solarSystemName_en": "Lenity",
+      "solarSystemName_zh": "莱尼蒂",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100043": {
+      "solarSystemID": 30100043,
+      "solarSystemName_en": "Steadfast",
+      "solarSystemName_zh": "斯特德法斯特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100044": {
+      "solarSystemID": 30100044,
+      "solarSystemName_en": "Couth",
+      "solarSystemName_zh": "库斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100045": {
+      "solarSystemID": 30100045,
+      "solarSystemName_en": "Mettle",
+      "solarSystemName_zh": "梅特尔",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100046": {
+      "solarSystemID": 30100046,
+      "solarSystemName_en": "Venerate",
+      "solarSystemName_zh": "维内雷特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100047": {
+      "solarSystemID": 30100047,
+      "solarSystemName_en": "Repute",
+      "solarSystemName_zh": "雷普特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100048": {
+      "solarSystemID": 30100048,
+      "solarSystemName_en": "Adroit",
+      "solarSystemName_zh": "阿德罗瓦",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100049": {
+      "solarSystemID": 30100049,
+      "solarSystemName_en": "Sagacity",
+      "solarSystemName_zh": "萨加西蒂",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100050": {
+      "solarSystemID": 30100050,
+      "solarSystemName_en": "Erudite",
+      "solarSystemName_zh": "埃鲁代特",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100051": {
+      "solarSystemID": 30100051,
+      "solarSystemName_en": "Solemn",
+      "solarSystemName_zh": "索莱姆",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100052": {
+      "solarSystemID": 30100052,
+      "solarSystemName_en": "Tenacity",
+      "solarSystemName_zh": "特纳西蒂",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100053": {
+      "solarSystemID": 30100053,
+      "solarSystemName_en": "Valiance",
+      "solarSystemName_zh": "瓦利安斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100054": {
+      "solarSystemID": 30100054,
+      "solarSystemName_en": "Chivalric",
+      "solarSystemName_zh": "希瓦里克",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100055": {
+      "solarSystemID": 30100055,
+      "solarSystemName_en": "Equity",
+      "solarSystemName_zh": "埃奎蒂",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100056": {
+      "solarSystemID": 30100056,
+      "solarSystemName_en": "Abstention",
+      "solarSystemName_zh": "阿布斯滕申",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100057": {
+      "solarSystemID": 30100057,
+      "solarSystemName_en": "Tiberis",
+      "solarSystemName_zh": "提贝里斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100058": {
+      "solarSystemID": 30100058,
+      "solarSystemName_en": "Rotonos",
+      "solarSystemName_zh": "罗托诺斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100059": {
+      "solarSystemID": 30100059,
+      "solarSystemName_en": "Ligare",
+      "solarSystemName_zh": "利加雷",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100060": {
+      "solarSystemID": 30100060,
+      "solarSystemName_en": "Axiosere",
+      "solarSystemName_zh": "阿克西奥塞尔",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100061": {
+      "solarSystemID": 30100061,
+      "solarSystemName_en": "Waison",
+      "solarSystemName_zh": "威森",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100062": {
+      "solarSystemID": 30100062,
+      "solarSystemName_en": "Maso",
+      "solarSystemName_zh": "马索",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100063": {
+      "solarSystemID": 30100063,
+      "solarSystemName_en": "Mondaekus",
+      "solarSystemName_zh": "蒙达库斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100064": {
+      "solarSystemID": 30100064,
+      "solarSystemName_en": "Kita-Aino",
+      "solarSystemName_zh": "基塔-艾诺",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100065": {
+      "solarSystemID": 30100065,
+      "solarSystemName_en": "Aldoras",
+      "solarSystemName_zh": "阿尔多拉斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100066": {
+      "solarSystemID": 30100066,
+      "solarSystemName_en": "Pamirasu",
+      "solarSystemName_zh": "帕米拉苏",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100067": {
+      "solarSystemID": 30100067,
+      "solarSystemName_en": "Hotak",
+      "solarSystemName_zh": "霍塔克",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100068": {
+      "solarSystemID": 30100068,
+      "solarSystemName_en": "Dyka-hau",
+      "solarSystemName_zh": "戴-卡豪",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100069": {
+      "solarSystemID": 30100069,
+      "solarSystemName_en": "Urtasvaar",
+      "solarSystemName_zh": "乌塔斯瓦尔",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100070": {
+      "solarSystemID": 30100070,
+      "solarSystemName_en": "Tatrys",
+      "solarSystemName_zh": "塔特里斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100071": {
+      "solarSystemID": 30100071,
+      "solarSystemName_en": "Vatna",
+      "solarSystemName_zh": "瓦特纳",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100072": {
+      "solarSystemID": 30100072,
+      "solarSystemName_en": "Tungna",
+      "solarSystemName_zh": "通纳",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100073": {
+      "solarSystemID": 30100073,
+      "solarSystemName_en": "Dranga",
+      "solarSystemName_zh": "德兰加",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100074": {
+      "solarSystemID": 30100074,
+      "solarSystemName_en": "Tindfjalla",
+      "solarSystemName_zh": "廷德菲亚拉",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100075": {
+      "solarSystemID": 30100075,
+      "solarSystemName_en": "Lang",
+      "solarSystemName_zh": "朗",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100076": {
+      "solarSystemID": 30100076,
+      "solarSystemName_en": "Hofs",
+      "solarSystemName_zh": "霍夫斯",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100077": {
+      "solarSystemID": 30100077,
+      "solarSystemName_en": "Dettisolin",
+      "solarSystemName_zh": "德蒂索林",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100078": {
+      "solarSystemID": 30100078,
+      "solarSystemName_en": "Adaz",
+      "solarSystemName_zh": "阿达兹",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100079": {
+      "solarSystemID": 30100079,
+      "solarSystemName_en": "Mazor",
+      "solarSystemName_zh": "马佐尔",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100080": {
+      "solarSystemID": 30100080,
+      "solarSystemName_en": "Kanta",
+      "solarSystemName_zh": "坎塔",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100081": {
+      "solarSystemID": 30100081,
+      "solarSystemName_en": "Taikud",
+      "solarSystemName_zh": "泰库德",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100082": {
+      "solarSystemID": 30100082,
+      "solarSystemName_en": "Vaejra",
+      "solarSystemName_zh": "瓦埃杰拉",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100083": {
+      "solarSystemID": 30100083,
+      "solarSystemName_en": "Sakizra",
+      "solarSystemName_zh": "萨基兹拉",
+      "security_status": 1.0,
+      "display_security": 1.0
+    },
+    "30100084": {
+      "solarSystemID": 30100084,
+      "solarSystemName_en": "Ichorah",
+      "solarSystemName_zh": "伊科拉",
+      "security_status": 1.0,
+      "display_security": 1.0
     },
     "31000001": {
       "solarSystemID": 31000001,
@@ -59061,7 +59432,7 @@
     }
   },
   "metadata": {
-    "total_solar_systems": 8437,
+    "total_solar_systems": 8490,
     "security_range": {
       "min": -1.0,
       "max": 1.0
